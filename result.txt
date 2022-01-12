@@ -1,0 +1,39 @@
+Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+============== RESTART: C:\Users\VIVEK KUMAR RAHUL\Desktop\new1.py =============
+This program can calculate avg of three numbers
+Enter the 1st number:- 6
+Enter the 2nd number:- 7
+Enter the 3rd number:- 8
+The Average of three given numbers is:  7.0
+*-:::::::::::::::::::::::-
+PYTHON PROGRAM TO CALCULATE THE INCOME TAX OF PERSON AFTER SEVERAL DEDUCTION OF MONEY (GROSS INCOME>$25000)
+Please Enter the Gross Income:$ 28000
+Please Enter the number of dependents: 2
+The total income tax of a person in $:  2400.0
+*
+-:::::::::::::::::::::::-
+Enter the SID: 
+21104124
+Enter the name of the student: 
+vivek
+Enter the gender of the student:
+M
+Enter your Course Name:
+Intro_to_computing
+Enter the CGPA of the student:
+8.5
+[21104124, 'vivek', 'M', 'Intro_to_computing', 8.5]
+-:::::::::::::::::::::::-
+This python program can be use to enter marks of 5 students
+Enter the Marks of First Student:89
+Enter the Marks of Second Student: 67
+Enter the Marks of Third Student: 99
+Enter the Marks of Fourth Student: 49
+Enter the Marks of Fifth Student: 88
+The List of marks of five student is as follows:  [89, 67, 99, 49, 88]
+*-::::::::::::::-*
+This python program can print a list in an specified manner
+['Red', 'Green', 'White', 'Pink', 'Yellow']
+['Red', 'Green', 'White', 'Purple', 'Yellow']
