@@ -1,0 +1,73 @@
+Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+====================== RESTART: E:\Python\Assignment 2.py ======================
+(a)
+Give the statement:Python is a case sensetive Language.
+Python is a case sensetive Language.
+36
+(b)
+.egaugnaL evitesnes esac a si nohtyP
+(c)
+a case sensetive
+(d)
+Python is object oriented Language
+(e)
+10
+(f)
+PythonisacasesensetiveLanguage.
+ 
+ 
+***
+ 
+ 
+Hey,Vivek Kumar Rahul Here!
+My SID is 21104124
+I am from EE department and my CGPA is 9.9
+ 
+ 
+***
+ 
+ 
+(a)
+0b1000
+(b)
+0b111010
+(c)
+0b110010
+(d)
+0b11100000
+0b101000
+(e)
+0b1110
+0b0
+ 
+ 
+***
+ 
+ 
+Give a number:9
+Give a number:10
+Give a number:11
+11 is greatest number
+ 
+ 
+***
+ 
+ 
+Give a word:Vivek
+No
+ 
+ 
+***
+ 
+ 
+Give a number:3
+Give a number:4
+Give a number:5
+The triangle is possible
+ 
+ 
+***
+ 
+ 
