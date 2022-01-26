@@ -42,9 +42,9 @@ print(" ")
 name="Vivek Kumar Rahul"
 SID=21104124
 department_name="EE"
-CGPA="8.5"
+CGPA="9.9"
 
-print("Hi!,This is!%s"%(name))
+print("Hey,%s Here!"%(name))
 print("My SID is %d"%(SID))
 print("I am from %s department and my CGPA is %s"%(department_name,CGPA))
 print(" ")
